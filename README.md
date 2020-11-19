@@ -1,1 +1,1 @@
-# thorin-and-co_flask-app
+# Thorin and Company
