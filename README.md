@@ -31,3 +31,6 @@ Logged in as randyaajrsp@gmail.com
 - Python
 - Flask 
 - Jinja
+
+## Live Link 
+[Thorin & Company](https://thorin-flask-app-2021.herokuapp.com/)
